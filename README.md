@@ -2,6 +2,11 @@
 
 > Personal fork of webpack-simple for VueJS. A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping.
 
+Differences
+
+- Uses pug and stylus as HTML and CSS processors
+- Removes option for sass
+- Adds a template vue to copy pasta with
 
 
 ### Usage
