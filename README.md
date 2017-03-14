@@ -1,8 +1,8 @@
-# webpack-simple
+# Vue-Kickoff
 
-> A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to wait for an official 2.0 webpack template.
+> Personal fork of webpack-simple for VueJS. A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping.
 
-> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init webpack-simple#1.0 my-project`
+
 
 ### Usage
 
